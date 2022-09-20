@@ -170,7 +170,7 @@ html, body{
 
 .botonstartups{
     padding: 0px 5px;
-    background-color: padding: 0px 5px;
+    background-color: padding 0px 5px;
     background-color: #DA3745;
     color: white;
     font-weight: bold;;
@@ -254,3 +254,4 @@ html, body{
     border: 2px solid;
     
 }
+
